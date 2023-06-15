@@ -1,0 +1,15 @@
+{
+  "name": "js-quatum",
+  "version": "1.0.0",
+  "description": "This a study of quantum",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quantum"
+  ],
+  "author": "Maikon Weber",
+  "license": "ISC"
+}
